@@ -1,0 +1,28 @@
+body {
+	color:#333333;
+	background-color:#ecebe4;
+	text-align:center;
+	font-family:Helvetica;
+	font-weight:100;"
+}
+
+.container {
+	margin-top:3rem;
+	margin-left:auto;
+	margin-right:auto;
+}
+.logogram {
+	width:20%;
+	margin-bottom:1.5rem;
+}
+.logotext {
+	width:80%;
+	margin-bottom:1.5rem;
+}
+.promo {
+	font-size:1.4em;
+}
+.icon {
+	width:40px;
+	height:auto;
+}
