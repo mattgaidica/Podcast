@@ -26,3 +26,11 @@ body {
 	width:40px;
 	height:auto;
 }
+.break {
+	margin-top: 20px;
+	padding-top: 20px;
+	border-top: 1px solid #cccccc;
+}
+.button {
+	margin: 0 10px 0 10px;
+}
